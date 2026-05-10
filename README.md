@@ -1,0 +1,2 @@
+# 221bBAKER---Riding-Third-with-SHERLOC-WATSON-on-MARS
+A characterization of the over 16000 images produced by the MARS PERSERVERANCE ROVER SCIENCE CAMERAS SHERLOC-WATSON , MICRO IMAGER and SUPERCAM from sol 11 to sol 1600
